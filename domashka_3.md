@@ -6,3 +6,4 @@ git remote add origin https://github.com/8m8s8g8/название файла
 git branch -M main
 git push -u origin main
 
+*для того чтобы вновь добавить изменения из комьпьютнра в сеть необходимо воспользоваться командой push*
